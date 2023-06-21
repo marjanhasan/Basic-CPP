@@ -1,0 +1,16 @@
+*char
+1) 1 ta var nibo char datatypes
+2) input nibo 
+3) check krbo j var er val lowercase na uppercase.
+(a >= 'a' && a <= 'z') tar mane choto hater. 
+(a>='A' && a<= 'Z') tar mane boro hater.
+4) choto hater hle,
+var thk 32 minus krbo, arekta char var e rakhbo.
+boro hater hle,
+var thk 32 plus krbo, arekta char var e rakhbo.
+5) char var ta print krbo
+
+*max and min
+1) a>=b && a>=c hle a boro, a<=b && a<=c hle a choto
+2) b>=a && b>=c hle b boro, b<=a && b<=c hle b choto
+3) uporer kono tai na hole c boro and choto
