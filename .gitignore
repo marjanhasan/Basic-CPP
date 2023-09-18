@@ -1,4 +1,6 @@
+.cph/
+.vscode/
+*.txt
 *.exe
 *.bin
-.vscode
-.cph
+test.cpp
